@@ -17,4 +17,4 @@ def computeMinimumPayment( balance ):
     if minimumPay > balance:
         minimumPay = balance;
 
-    return minimumPay,1
+    return minimumPay
